@@ -1,5 +1,3 @@
-package konto;
-
 public class Konto {
 
     public static void main(String[] args) {
@@ -16,7 +14,7 @@ public class Konto {
        KontoHistoria.przelej(300 , k4 , k3);
        KontoHistoria.przelej(600 , k4 , k3);
        
-       k3.historia();
+       k4.historia();
        
        
        

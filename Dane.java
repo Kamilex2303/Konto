@@ -1,5 +1,3 @@
-package konto;
-
 class Dane {
     private  double stan;
     private  String wlasciciel;

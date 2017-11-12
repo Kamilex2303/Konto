@@ -1,5 +1,3 @@
-package konto;
-
 class KontoHistoria extends Dane {
     
     double[] historia = new double[5];
